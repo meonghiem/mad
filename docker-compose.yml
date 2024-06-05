@@ -1,0 +1,13 @@
+version: 'latest'
+services:
+  postgres:
+    image: postgres:latest
+    environment:
+      POSTGRES_PASSWORD: 20062001
+      POSTGRES_USER : postgres
+      POSTGRES_DB: mad_seller
+    ports:
+      - 5432:5432
+# volumes:
+#   todo-mysql-data:
+
