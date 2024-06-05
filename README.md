@@ -1,4 +1,3 @@
-# Mad-Seller-Webserver
 
 
 
@@ -15,14 +14,12 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://gitlab.com/mad-seller/mad-seller-webserver.git
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://gitlab.com/mad-seller/mad-seller-webserver/-/settings/integrations)
 
 ## Collaborate with your team
 
